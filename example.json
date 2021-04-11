@@ -9,6 +9,21 @@
             "firstName": "Farhan",
             "age": 22,
             "mail": "farhanashrafali30@gmail.com"
+        },
+        {
+            "firstName": "Awais",
+            "age": 22,
+            "mail": "awaissaleem334@gmail.com"
+        },
+        {
+            "firstName": "AbdulRafay",
+            "age": 21,
+            "mail": "abdulrafayshawaiz13@gmail.com"
+        },
+        {
+            "firstName": "Salman",
+            "age": 24,
+            "mail": "salmansomeone@gmail.com"
         }
     ]
 
